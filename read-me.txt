@@ -1,0 +1,7 @@
+Subject: Big Data Analytics
+Group: 10
+Members: Heena Dave (810917421), Bhavy Bhut (810917417)
+
+This package contains one Presentation File for MapReduce: Data Distribution for Reduce, one final Project Report and one Zip file which contains the source code.
+
+The source code contains 5 Java Source files and it also contains output files. Import the source code to eclipse and run URICount.java which is the main file. Number of Mappers and Number of Reducers can be changed from URICount.java.
